@@ -8,7 +8,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I am a pre-final Student at SRM Institute of Science and Technology. Creating something new and unique is more like a passion for me, it drives me crazy and it keeps me sane. According to me, "Life is all about control" and hence, YES I exercise control in every aspect of my life, from efficient and clean codes to my guitar ;)
+I am a pre-final year Student at SRM Institute of Science and Technology. Creating something new and unique is more like a passion for me, it drives me crazy and it keeps me sane. According to me, "Life is all about control" and hence, YES I exercise control in every aspect of my life, from efficient and clean codes to my guitar ;)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChronicCoder69&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
