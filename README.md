@@ -1,6 +1,6 @@
 # Arjit Vatsa
 
-![]</github/pipenv/locked/python-version/:user/:repo/>)
+![](</github/pipenv/locked/python-version/:user/:repo/>)
 ![](https://img.shields.io/badge/-JavaScript-dbc900)
 ![](https://img.shields.io/badge/-Node.js-07db00)
 ![](https://img.shields.io/badge/-React-5e5e5e)
