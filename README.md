@@ -1,9 +1,9 @@
 # Arjit Vatsa
 
-![](</github/pipenv/locked/python-version/:user/:repo/>)
-![](https://img.shields.io/badge/-JavaScript-dbc900)
-![](https://img.shields.io/badge/-Node.js-07db00)
-![](https://img.shields.io/badge/-React-5e5e5e)
+![](https://img.shields.io/badge/-Python-brightgreen)
+![](https://img.shields.io/badge/-C%2FC%2B%2B-yellow)
+![](https://img.shields.io/badge/-SQL-red)
+![](https://img.shields.io/badge/-HTML%2FCSS-blue)
 ![](https://img.shields.io/badge/-AWS-ebb331)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
