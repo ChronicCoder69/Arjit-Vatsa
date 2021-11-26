@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/-HTML%2FCSS-blue)
 ![](https://img.shields.io/badge/-AWS-ebb331)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ChronicCoder69)
 
 I am a pre-final year Student at SRM Institute of Science and Technology. Creating something new and unique is more like a passion for me, it drives me crazy and it keeps me sane. According to me, "Life is all about control" and hence, YES I exercise control in every aspect of my life, from efficient and clean codes to my guitar ;)
 
