@@ -49,6 +49,6 @@ I am a pre-final year Student at SRM Institute of Science and Technology. Creati
 ### Lets Chat
 <ul>
   <li>Connect to me Via. my LinkedIn <a href="https://www.linkedin.com/in/arjit-vatsa-46a8731a7/" target="_blank">@Arjit_Vatsa</a></li>
-  <li>Mail me at @arjitrajatvatsa@gmail.com </li>
+  <li>Mail me at arjitrajatvatsa@gmail.com </li>
 </ul>
 </p>
