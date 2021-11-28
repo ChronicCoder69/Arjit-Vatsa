@@ -14,7 +14,7 @@ I am a pre-final year Student at SRM Institute of Science and Technology. Creati
 
 ### My Field of Work (My Tech Stack)
 
-- Front-end using **HTML** and **CSS**, leveraging **React**.
+- Front-end using **HTML** and **CSS**.
 - Back-end using **Flask**
 - Cloud computing, serverless architecture and more using **AWS**.
 - Machine Learning with **Python** and sometimes **Octave**.
