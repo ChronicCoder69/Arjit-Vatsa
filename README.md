@@ -30,7 +30,7 @@ I am a pre-final year Student at SRM Institute of Science and Technology. Creati
 
 ### My Projects
 
-- [Incognito Healer](https://github.com/ChronicCoder69/Incognito-Healer) <br/>A Multifunctionality, purely deployed **Web-App**. Developed for **HackNPitch2021**, The site gives users an escape from their tiring daily life to a place where they can deal with their stress related issues while remaining **Incognito**. Refer_To: https://incognito-healer.herokuapp.com/
+- [Incognito Healer](https://github.com/ChronicCoder69/Incognito-Healer) <br/>A Multifunctionality, purely deployed **Web-App**. Developed for **HackNPitch2021**, The site gives users an escape from their tiring daily life to a place where they can deal with their stress related issues while remaining **Incognito**.  Refer_To: https://incognito-healer.herokuapp.com/
 - [Zippy](https://github.com/ChronicCoder69/LGMVIP_Task01) <br/>A simple Single page Website, developed as a part of my first Internship Project for **LETS GROW MORE Foundation** according to the specification presented by the employers. It uses HTML , CSS and some JavaScript Concepts.
 - [Stress Level Predictor](https://github.com/ChronicCoder69/Stress_Level_Predictor)<br/>This is a **data mining project** done as a personal endeavour. It uses ML concepts of Random Forest and Neural Networks in Python.
 - [Travel India](https://github.com/ChronicCoder69/Parallax-Website) <br/>An under construction **Parallax Website**, Featuring Indian Tourism aspects.
