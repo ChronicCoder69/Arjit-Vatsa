@@ -37,7 +37,7 @@ I am a pre-final year Student at SRM Institute of Science and Technology. Creati
 - [Travel India](https://github.com/ChronicCoder69/Parallax-Website) <br/>An under construction **Parallax Website**, Featuring Indian Tourism aspects.
 
 ### My Work Experience
-
+- **AWS Cloud Intern**<br/>F13 Technologies
 - **Web Development Intern**<br/>Lets Grow More Foundation
 - **Data Science Intern**<br/> SkillVertex
 
